@@ -1,0 +1,330 @@
+track 786-0
+bigDataUrl 786-0.bigWig
+shortLabel CNVs - 786-0
+longLabel CNVs - 786-0
+type bigWig
+
+track A498
+bigDataUrl A498.bigWig
+shortLabel CNVs - A498
+longLabel CNVs - A498
+type bigWig
+
+track A549
+bigDataUrl A549.bigWig
+shortLabel CNVs - A549
+longLabel CNVs - A549
+type bigWig
+
+track ACHN
+bigDataUrl ACHN.bigWig
+shortLabel CNVs - ACHN
+longLabel CNVs - ACHN
+type bigWig
+
+track BT549
+bigDataUrl BT549.bigWig
+shortLabel CNVs - BT549
+longLabel CNVs - BT549
+type bigWig
+
+track CAKI-1
+bigDataUrl CAKI-1.bigWig
+shortLabel CNVs - CAKI-1
+longLabel CNVs - CAKI-1
+type bigWig
+
+track CCRF-CEM
+bigDataUrl CCRF-CEM.bigWig
+shortLabel CNVs - CCRF-CEM
+longLabel CNVs - CCRF-CEM
+type bigWig
+
+track COLO205
+bigDataUrl COLO205.bigWig
+shortLabel CNVs - COLO205
+longLabel CNVs - COLO205
+type bigWig
+
+track DU145
+bigDataUrl DU145.bigWig
+shortLabel CNVs - DU145
+longLabel CNVs - DU145
+type bigWig
+
+track EKVX
+bigDataUrl EKVX.bigWig
+shortLabel CNVs - EKVX
+longLabel CNVs - EKVX
+type bigWig
+
+track H226
+bigDataUrl H226.bigWig
+shortLabel CNVs - H226
+longLabel CNVs - H226
+type bigWig
+
+track H23
+bigDataUrl H23.bigWig
+shortLabel CNVs - H23
+longLabel CNVs - H23
+type bigWig
+
+track H322M
+bigDataUrl H322M.bigWig
+shortLabel CNVs - H322M
+longLabel CNVs - H322M
+type bigWig
+
+track H460
+bigDataUrl H460.bigWig
+shortLabel CNVs - H460
+longLabel CNVs - H460
+type bigWig
+
+track H522
+bigDataUrl H522.bigWig
+shortLabel CNVs - H522
+longLabel CNVs - H522
+type bigWig
+
+track HCC2998
+bigDataUrl HCC2998.bigWig
+shortLabel CNVs - HCC2998
+longLabel CNVs - HCC2998
+type bigWig
+
+track HCT116
+bigDataUrl HCT116.bigWig
+shortLabel CNVs - HCT116
+longLabel CNVs - HCT116
+type bigWig
+
+track HCT15
+bigDataUrl HCT15.bigWig
+shortLabel CNVs - HCT15
+longLabel CNVs - HCT15
+type bigWig
+
+track HL-60
+bigDataUrl HL-60.bigWig
+shortLabel CNVs - HL-60
+longLabel CNVs - HL-60
+type bigWig
+
+track HOP62
+bigDataUrl HOP62.bigWig
+shortLabel CNVs - HOP62
+longLabel CNVs - HOP62
+type bigWig
+
+track HOP92
+bigDataUrl HOP92.bigWig
+shortLabel CNVs - HOP92
+longLabel CNVs - HOP92
+type bigWig
+
+track Hs578T
+bigDataUrl Hs578T.bigWig
+shortLabel CNVs - Hs578T
+longLabel CNVs - Hs578T
+type bigWig
+
+track HT29
+bigDataUrl HT29.bigWig
+shortLabel CNVs - HT29
+longLabel CNVs - HT29
+type bigWig
+
+track IGROV1
+bigDataUrl IGROV1.bigWig
+shortLabel CNVs - IGROV1
+longLabel CNVs - IGROV1
+type bigWig
+
+track K562
+bigDataUrl K562.bigWig
+shortLabel CNVs - K562
+longLabel CNVs - K562
+type bigWig
+
+track KM12
+bigDataUrl KM12.bigWig
+shortLabel CNVs - KM12
+longLabel CNVs - KM12
+type bigWig
+
+track LOXIMVI
+bigDataUrl LOXIMVI.bigWig
+shortLabel CNVs - LOXIMVI
+longLabel CNVs - LOXIMVI
+type bigWig
+
+track M14
+bigDataUrl M14.bigWig
+shortLabel CNVs - M14
+longLabel CNVs - M14
+type bigWig
+
+track MALME3M
+bigDataUrl MALME3M.bigWig
+shortLabel CNVs - MALME3M
+longLabel CNVs - MALME3M
+type bigWig
+
+track MCF7
+bigDataUrl MCF7.bigWig
+shortLabel CNVs - MCF7
+longLabel CNVs - MCF7
+type bigWig
+
+track MDA-MB-231
+bigDataUrl MDA-MB-231.bigWig
+shortLabel CNVs - MDA-MB-231
+longLabel CNVs - MDA-MB-231
+type bigWig
+
+track MOLT-4
+bigDataUrl MOLT-4.bigWig
+shortLabel CNVs - MOLT-4
+longLabel CNVs - MOLT-4
+type bigWig
+
+track OVCAR3
+bigDataUrl OVCAR3.bigWig
+shortLabel CNVs - OVCAR3
+longLabel CNVs - OVCAR3
+type bigWig
+
+track OVCAR4
+bigDataUrl OVCAR4.bigWig
+shortLabel CNVs - OVCAR4
+longLabel CNVs - OVCAR4
+type bigWig
+
+track OVCAR5
+bigDataUrl OVCAR5.bigWig
+shortLabel CNVs - OVCAR5
+longLabel CNVs - OVCAR5
+type bigWig
+
+track OVCAR8
+bigDataUrl OVCAR8.bigWig
+shortLabel CNVs - OVCAR8
+longLabel CNVs - OVCAR8
+type bigWig
+
+track PC3
+bigDataUrl PC3.bigWig
+shortLabel CNVs - PC3
+longLabel CNVs - PC3
+type bigWig
+
+track RPMI-8226
+bigDataUrl RPMI-8226.bigWig
+shortLabel CNVs - RPMI-8226
+longLabel CNVs - RPMI-8226
+type bigWig
+
+track RXF-393
+bigDataUrl RXF-393.bigWig
+shortLabel CNVs - RXF-393
+longLabel CNVs - RXF-393
+type bigWig
+
+track SF268
+bigDataUrl SF268.bigWig
+shortLabel CNVs - SF268
+longLabel CNVs - SF268
+type bigWig
+
+track SF295
+bigDataUrl SF295.bigWig
+shortLabel CNVs - SF295
+longLabel CNVs - SF295
+type bigWig
+
+track SF539
+bigDataUrl SF539.bigWig
+shortLabel CNVs - SF539
+longLabel CNVs - SF539
+type bigWig
+
+track SKMEL-28
+bigDataUrl SKMEL-28.bigWig
+shortLabel CNVs - SKMEL-28
+longLabel CNVs - SKMEL-28
+type bigWig
+
+track SKMEL2
+bigDataUrl SKMEL2.bigWig
+shortLabel CNVs - SKMEL2
+longLabel CNVs - SKMEL2
+type bigWig
+
+track SKMEL5
+bigDataUrl SKMEL5.bigWig
+shortLabel CNVs - SKMEL5
+longLabel CNVs - SKMEL5
+type bigWig
+
+track SKOV3
+bigDataUrl SKOV3.bigWig
+shortLabel CNVs - SKOV3
+longLabel CNVs - SKOV3
+type bigWig
+
+track SN12C
+bigDataUrl SN12C.bigWig
+shortLabel CNVs - SN12C
+longLabel CNVs - SN12C
+type bigWig
+
+track SNB75
+bigDataUrl SNB75.bigWig
+shortLabel CNVs - SNB75
+longLabel CNVs - SNB75
+type bigWig
+
+track SR
+bigDataUrl SR.bigWig
+shortLabel CNVs - SR
+longLabel CNVs - SR
+type bigWig
+
+track Sw620
+bigDataUrl Sw620.bigWig
+shortLabel CNVs - Sw620
+longLabel CNVs - Sw620
+type bigWig
+
+track T47D
+bigDataUrl T47D.bigWig
+shortLabel CNVs - T47D
+longLabel CNVs - T47D
+type bigWig
+
+track TK10
+bigDataUrl TK10.bigWig
+shortLabel CNVs - TK10
+longLabel CNVs - TK10
+type bigWig
+
+track UACC257
+bigDataUrl UACC257.bigWig
+shortLabel CNVs - UACC257
+longLabel CNVs - UACC257
+type bigWig
+
+track UACC62
+bigDataUrl UACC62.bigWig
+shortLabel CNVs - UACC62
+longLabel CNVs - UACC62
+type bigWig
+
+track UO31
+bigDataUrl UO31.bigWig
+shortLabel CNVs - UO31
+longLabel CNVs - UO31
+type bigWig
+

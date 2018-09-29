@@ -1,0 +1,5 @@
+hub CnvHub
+shortLabel CNV Hub
+longLabel Hub for CNVs derived from NCI60 cell lines
+genomesFile genomes.txt
+email mark.reardon@postgrad.manchester.ac.uk
