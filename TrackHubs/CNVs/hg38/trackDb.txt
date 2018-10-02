@@ -3,7 +3,7 @@ bigDataUrl 786-0.bigWig
 shortLabel 786-0
 longLabel Copy number change: 786-0, SRR4009256, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -13,7 +13,7 @@ bigDataUrl A498.bigWig
 shortLabel A498
 longLabel Copy number change: A498, SRR4009292, female, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -23,7 +23,7 @@ bigDataUrl A549.bigWig
 shortLabel A549
 longLabel Copy number change: A549, SRR4009282, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -33,7 +33,7 @@ bigDataUrl ACHN.bigWig
 shortLabel ACHN
 longLabel Copy number change: ACHN, SRR4009295, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -43,7 +43,7 @@ bigDataUrl BT549.bigWig
 shortLabel BT549
 longLabel Copy number change: BT549, SRR4009243, female, Breast
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -53,7 +53,7 @@ bigDataUrl CAKI-1.bigWig
 shortLabel CAKI-1
 longLabel Copy number change: CAKI-1, SRR4009245, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -63,7 +63,7 @@ bigDataUrl CCRF-CEM.bigWig
 shortLabel CCRF-CEM
 longLabel Copy number change: CCRF-CEM, SRR4009291, female, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -73,7 +73,7 @@ bigDataUrl COLO205.bigWig
 shortLabel COLO205
 longLabel Copy number change: COLO205, SRR4009293, male, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -83,7 +83,7 @@ bigDataUrl DU145.bigWig
 shortLabel DU145
 longLabel Copy number change: DU145, SRR4009270, male, Prostate
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -93,7 +93,7 @@ bigDataUrl EKVX.bigWig
 shortLabel EKVX
 longLabel Copy number change: EKVX, SRR4009310, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -103,7 +103,7 @@ bigDataUrl H226.bigWig
 shortLabel H226
 longLabel Copy number change: H226, SRR4009279, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -113,7 +113,7 @@ bigDataUrl H23.bigWig
 shortLabel H23
 longLabel Copy number change: H23, SRR4009247, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -123,7 +123,7 @@ bigDataUrl H322M.bigWig
 shortLabel H322M
 longLabel Copy number change: H322M, SRR4009225, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -133,7 +133,7 @@ bigDataUrl H460.bigWig
 shortLabel H460
 longLabel Copy number change: H460, SRR4009248, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -143,7 +143,7 @@ bigDataUrl H522.bigWig
 shortLabel H522
 longLabel Copy number change: H522, SRR4009265, male, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -153,7 +153,7 @@ bigDataUrl HCC2998.bigWig
 shortLabel HCC2998
 longLabel Copy number change: HCC2998, SRR4009262, female, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -163,7 +163,7 @@ bigDataUrl HCT116.bigWig
 shortLabel HCT116
 longLabel Copy number change: HCT116, SRR4009287, male, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -173,7 +173,7 @@ bigDataUrl HCT15.bigWig
 shortLabel HCT15
 longLabel Copy number change: HCT15, SRR4009286, male, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -183,7 +183,7 @@ bigDataUrl HL-60.bigWig
 shortLabel HL-60
 longLabel Copy number change: HL-60, SRR4009290, female, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -193,7 +193,7 @@ bigDataUrl HOP62.bigWig
 shortLabel HOP62
 longLabel Copy number change: HOP62, SRR4009239, female, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -203,7 +203,7 @@ bigDataUrl HOP92.bigWig
 shortLabel HOP92
 longLabel Copy number change: HOP92, SRR4009274, female, Lung
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -213,7 +213,7 @@ bigDataUrl Hs578T.bigWig
 shortLabel Hs578T
 longLabel Copy number change: Hs578T, SRR4009249, female, Breast
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -223,7 +223,7 @@ bigDataUrl HT29.bigWig
 shortLabel HT29
 longLabel Copy number change: HT29, SRR4009284, female, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -233,7 +233,7 @@ bigDataUrl IGROV1.bigWig
 shortLabel IGROV1
 longLabel Copy number change: IGROV1, SRR4009281, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -243,7 +243,7 @@ bigDataUrl K562.bigWig
 shortLabel K562
 longLabel Copy number change: K562, SRR4009297, female, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -253,7 +253,7 @@ bigDataUrl KM12.bigWig
 shortLabel KM12
 longLabel Copy number change: KM12, SRR4009267, female, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -263,7 +263,7 @@ bigDataUrl LOXIMVI.bigWig
 shortLabel LOXIMVI
 longLabel Copy number change: LOXIMVI, SRR4009294, male, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -273,7 +273,7 @@ bigDataUrl M14.bigWig
 shortLabel M14
 longLabel Copy number change: M14, SRR4009253, female, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -283,7 +283,7 @@ bigDataUrl MALME3M.bigWig
 shortLabel MALME3M
 longLabel Copy number change: MALME3M, SRR4009321, male, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -293,7 +293,7 @@ bigDataUrl MCF7.bigWig
 shortLabel MCF7
 longLabel Copy number change: MCF7, SRR4009273, female, Breast
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -303,7 +303,7 @@ bigDataUrl MDA-MB-231.bigWig
 shortLabel MDA-MB-231
 longLabel Copy number change: MDA-MB-231, SRR4009238, female, Breast
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -313,7 +313,7 @@ bigDataUrl MOLT-4.bigWig
 shortLabel MOLT-4
 longLabel Copy number change: MOLT-4, SRR4009283, male, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -323,7 +323,7 @@ bigDataUrl OVCAR3.bigWig
 shortLabel OVCAR3
 longLabel Copy number change: OVCAR3, SRR4009263, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -333,7 +333,7 @@ bigDataUrl OVCAR4.bigWig
 shortLabel OVCAR4
 longLabel Copy number change: OVCAR4, SRR4009236, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -343,7 +343,7 @@ bigDataUrl OVCAR5.bigWig
 shortLabel OVCAR5
 longLabel Copy number change: OVCAR5, SRR4009246, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -353,7 +353,7 @@ bigDataUrl OVCAR8.bigWig
 shortLabel OVCAR8
 longLabel Copy number change: OVCAR8, SRR4009275, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -363,7 +363,7 @@ bigDataUrl PC3.bigWig
 shortLabel PC3
 longLabel Copy number change: PC3, SRR4009277, male, Prostate
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -373,7 +373,7 @@ bigDataUrl RPMI-8226.bigWig
 shortLabel RPMI-8226
 longLabel Copy number change: RPMI-8226, SRR4009240, male, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -383,7 +383,7 @@ bigDataUrl RXF-393.bigWig
 shortLabel RXF-393
 longLabel Copy number change: RXF-393, SRR4009241, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -393,7 +393,7 @@ bigDataUrl SF268.bigWig
 shortLabel SF268
 longLabel Copy number change: SF268, SRR4009252, female, Brain
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -403,7 +403,7 @@ bigDataUrl SF295.bigWig
 shortLabel SF295
 longLabel Copy number change: SF295, SRR4009329, female, Brain
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -413,7 +413,7 @@ bigDataUrl SF539.bigWig
 shortLabel SF539
 longLabel Copy number change: SF539, SRR4009242, female, Brain
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -423,7 +423,7 @@ bigDataUrl SKMEL-28.bigWig
 shortLabel SKMEL-28
 longLabel Copy number change: SKMEL-28, SRR4009260, male, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -433,7 +433,7 @@ bigDataUrl SKMEL2.bigWig
 shortLabel SKMEL2
 longLabel Copy number change: SKMEL2, SRR4009254, male, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -443,7 +443,7 @@ bigDataUrl SKMEL5.bigWig
 shortLabel SKMEL5
 longLabel Copy number change: SKMEL5, SRR4009272, female, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -453,7 +453,7 @@ bigDataUrl SKOV3.bigWig
 shortLabel SKOV3
 longLabel Copy number change: SKOV3, SRR4009278, female, Ovary
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -463,7 +463,7 @@ bigDataUrl SN12C.bigWig
 shortLabel SN12C
 longLabel Copy number change: SN12C, SRR4009289, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -473,7 +473,7 @@ bigDataUrl SNB75.bigWig
 shortLabel SNB75
 longLabel Copy number change: SNB75, SRR4009250, female, Brain
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -483,7 +483,7 @@ bigDataUrl SR.bigWig
 shortLabel SR
 longLabel Copy number change: SR, SRR4009296, male, Hematopoietic
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -493,7 +493,7 @@ bigDataUrl Sw620.bigWig
 shortLabel Sw620
 longLabel Copy number change: Sw620, SRR4009280, male, Colon
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -503,7 +503,7 @@ bigDataUrl T47D.bigWig
 shortLabel T47D
 longLabel Copy number change: T47D, SRR4009259, female, Breast
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -513,7 +513,7 @@ bigDataUrl TK10.bigWig
 shortLabel TK10
 longLabel Copy number change: TK10, SRR4009251, male, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -523,7 +523,7 @@ bigDataUrl UACC257.bigWig
 shortLabel UACC257
 longLabel Copy number change: UACC257, SRR4009258, female, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -533,7 +533,7 @@ bigDataUrl UACC62.bigWig
 shortLabel UACC62
 longLabel Copy number change: UACC62, SRR4009203, female, Skin
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
@@ -543,7 +543,7 @@ bigDataUrl UO31.bigWig
 shortLabel UO31
 longLabel Copy number change: UO31, SRR4009261, female, Renal
 type bigWig
-visibility full
+visibility dense
 color 0,0,255
 altColor 255,0,0
 autoScale on
