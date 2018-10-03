@@ -1,5 +1,8 @@
 track CNVs
 superTrack on show
+shortLabel CNVs
+longLabel CNVs
+
 
 track Brain
 parent CNVs
