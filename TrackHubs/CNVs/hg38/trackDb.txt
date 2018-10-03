@@ -7,6 +7,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 1
 
 track SF295
 bigDataUrl SF295.bigWig
@@ -17,6 +18,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 2
 
 track SF539
 bigDataUrl SF539.bigWig
@@ -27,6 +29,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 3
 
 track SNB75
 bigDataUrl SNB75.bigWig
@@ -37,6 +40,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 4
 
 track BT549
 bigDataUrl BT549.bigWig
@@ -47,6 +51,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 5
 
 track Hs578T
 bigDataUrl Hs578T.bigWig
@@ -57,6 +62,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 6
 
 track MCF7
 bigDataUrl MCF7.bigWig
@@ -67,6 +73,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 7
 
 track MDA-MB-231
 bigDataUrl MDA-MB-231.bigWig
@@ -77,6 +84,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 8
 
 track T47D
 bigDataUrl T47D.bigWig
@@ -87,6 +95,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 9
 
 track COLO205
 bigDataUrl COLO205.bigWig
@@ -97,6 +106,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 10
 
 track HCC2998
 bigDataUrl HCC2998.bigWig
@@ -107,6 +117,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 11
 
 track HCT116
 bigDataUrl HCT116.bigWig
@@ -117,6 +128,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 12
 
 track HCT15
 bigDataUrl HCT15.bigWig
@@ -127,6 +139,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 13
 
 track HT29
 bigDataUrl HT29.bigWig
@@ -137,6 +150,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 14
 
 track KM12
 bigDataUrl KM12.bigWig
@@ -147,6 +161,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 15
 
 track Sw620
 bigDataUrl Sw620.bigWig
@@ -157,6 +172,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 16
 
 track CCRF-CEM
 bigDataUrl CCRF-CEM.bigWig
@@ -167,6 +183,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 17
 
 track HL-60
 bigDataUrl HL-60.bigWig
@@ -177,6 +194,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 18
 
 track K562
 bigDataUrl K562.bigWig
@@ -187,6 +205,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 19
 
 track MOLT-4
 bigDataUrl MOLT-4.bigWig
@@ -197,6 +216,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 20
 
 track RPMI-8226
 bigDataUrl RPMI-8226.bigWig
@@ -207,6 +227,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 21
 
 track SR
 bigDataUrl SR.bigWig
@@ -217,6 +238,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 22
 
 track A549
 bigDataUrl A549.bigWig
@@ -227,6 +249,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 23
 
 track EKVX
 bigDataUrl EKVX.bigWig
@@ -237,6 +260,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 24
 
 track H226
 bigDataUrl H226.bigWig
@@ -247,6 +271,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 25
 
 track H23
 bigDataUrl H23.bigWig
@@ -257,6 +282,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 26
 
 track H322M
 bigDataUrl H322M.bigWig
@@ -267,6 +293,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 27
 
 track H460
 bigDataUrl H460.bigWig
@@ -277,6 +304,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 28
 
 track H522
 bigDataUrl H522.bigWig
@@ -287,6 +315,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 29
 
 track HOP62
 bigDataUrl HOP62.bigWig
@@ -297,6 +326,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 30
 
 track HOP92
 bigDataUrl HOP92.bigWig
@@ -307,6 +337,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 31
 
 track IGROV1
 bigDataUrl IGROV1.bigWig
@@ -317,6 +348,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 32
 
 track OVCAR3
 bigDataUrl OVCAR3.bigWig
@@ -327,6 +359,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 33
 
 track OVCAR4
 bigDataUrl OVCAR4.bigWig
@@ -337,6 +370,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 34
 
 track OVCAR5
 bigDataUrl OVCAR5.bigWig
@@ -347,6 +381,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 35
 
 track OVCAR8
 bigDataUrl OVCAR8.bigWig
@@ -357,6 +392,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 36
 
 track SKOV3
 bigDataUrl SKOV3.bigWig
@@ -367,6 +403,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 37
 
 track DU145
 bigDataUrl DU145.bigWig
@@ -377,6 +414,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 38
 
 track PC3
 bigDataUrl PC3.bigWig
@@ -387,6 +425,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 39
 
 track 786-0
 bigDataUrl 786-0.bigWig
@@ -397,6 +436,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 40
 
 track A498
 bigDataUrl A498.bigWig
@@ -407,6 +447,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 41
 
 track ACHN
 bigDataUrl ACHN.bigWig
@@ -417,6 +458,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 42
 
 track CAKI-1
 bigDataUrl CAKI-1.bigWig
@@ -427,6 +469,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 43
 
 track RXF-393
 bigDataUrl RXF-393.bigWig
@@ -437,6 +480,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 44
 
 track SN12C
 bigDataUrl SN12C.bigWig
@@ -447,6 +491,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 45
 
 track TK10
 bigDataUrl TK10.bigWig
@@ -457,6 +502,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 46
 
 track UO31
 bigDataUrl UO31.bigWig
@@ -467,6 +513,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 47
 
 track LOXIMVI
 bigDataUrl LOXIMVI.bigWig
@@ -477,6 +524,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 48
 
 track M14
 bigDataUrl M14.bigWig
@@ -487,6 +535,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 49
 
 track MALME3M
 bigDataUrl MALME3M.bigWig
@@ -497,6 +546,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 50
 
 track SKMEL-28
 bigDataUrl SKMEL-28.bigWig
@@ -507,6 +557,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 51
 
 track SKMEL2
 bigDataUrl SKMEL2.bigWig
@@ -517,6 +568,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 52
 
 track SKMEL5
 bigDataUrl SKMEL5.bigWig
@@ -527,6 +579,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 53
 
 track UACC257
 bigDataUrl UACC257.bigWig
@@ -537,6 +590,7 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 54
 
 track UACC62
 bigDataUrl UACC62.bigWig
@@ -547,4 +601,5 @@ visibility full
 color 0,0,255
 altColor 255,0,0
 autoScale on
+priority 55
 
