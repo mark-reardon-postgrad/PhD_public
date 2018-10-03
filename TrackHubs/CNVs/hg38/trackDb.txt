@@ -3,38 +3,37 @@ superTrack on show
 shortLabel CNVs
 longLabel CNVs
 
+    track Brain
+    parent CNVs
+    compositeTrack on
+    shortLabel Brain CNVs
+    longLabel Brain CNVs
 
-track Brain
-parent CNVs
-compositeTrack on
-shortLabel Brain CNVs
-longLabel Brain CNVs
+        track SF268
+        parent Brain on
+        bigDataUrl SF268.bigWig
+        shortLabel SF268 (SRR4009252, female)
+        longLabel SF268 (SRR4009252, female)
+        type bigWig
+        visibility full
+        color 0,0,255
+        altColor 255,0,0
+        autoScale on
 
-    track SF268
-    parent Brain on
-    bigDataUrl SF268.bigWig
-    shortLabel SF268 (SRR4009252, female)
-    longLabel SF268 (SRR4009252, female)
-    type bigWig
-    visibility full
-    color 0,0,255
-    altColor 255,0,0
-    autoScale on
+    track Breast
+    parent CNVs
+    compositeTrack on
+    shortLabel Breast CNVs
+    longLabel Breast CNVs
 
-track Breast
-parent CNVs
-compositeTrack on
-shortLabel Breast CNVs
-longLabel Breast CNVs
-
-    track BT549
-    parent Breast on
-    bigDataUrl BT549.bigWig
-    shortLabel BT549 (SRR4009243, female)
-    longLabel BT549 (SRR4009243, female)
-    type bigWig
-    visibility full
-    color 0,0,255
-    altColor 255,0,0
-    autoScale on
+        track BT549
+        parent Breast on
+        bigDataUrl BT549.bigWig
+        shortLabel BT549 (SRR4009243, female)
+        longLabel BT549 (SRR4009243, female)
+        type bigWig
+        visibility full
+        color 0,0,255
+        altColor 255,0,0
+        autoScale on
 
