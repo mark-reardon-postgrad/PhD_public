@@ -1,6 +1,6 @@
-track 1-SF268
+track 01-SF268
 bigDataUrl SF268.bigWig
-shortLabel SF268
+shortLabel 01-SF268
 longLabel Copy number change: SF268, SRR4009252, female, Brain
 type bigWig
 visibility full
@@ -9,9 +9,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 2-SF295
+track 02-SF295
 bigDataUrl SF295.bigWig
-shortLabel SF295
+shortLabel 02-SF295
 longLabel Copy number change: SF295, SRR4009329, female, Brain
 type bigWig
 visibility full
@@ -20,9 +20,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 3-SF539
+track 03-SF539
 bigDataUrl SF539.bigWig
-shortLabel SF539
+shortLabel 03-SF539
 longLabel Copy number change: SF539, SRR4009242, female, Brain
 type bigWig
 visibility full
@@ -31,9 +31,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 4-SNB75
+track 04-SNB75
 bigDataUrl SNB75.bigWig
-shortLabel SNB75
+shortLabel 04-SNB75
 longLabel Copy number change: SNB75, SRR4009250, female, Brain
 type bigWig
 visibility full
@@ -42,9 +42,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 5-BT549
+track 05-BT549
 bigDataUrl BT549.bigWig
-shortLabel BT549
+shortLabel 05-BT549
 longLabel Copy number change: BT549, SRR4009243, female, Breast
 type bigWig
 visibility full
@@ -53,9 +53,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 6-Hs578T
+track 06-Hs578T
 bigDataUrl Hs578T.bigWig
-shortLabel Hs578T
+shortLabel 06-Hs578T
 longLabel Copy number change: Hs578T, SRR4009249, female, Breast
 type bigWig
 visibility full
@@ -64,9 +64,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 7-MCF7
+track 07-MCF7
 bigDataUrl MCF7.bigWig
-shortLabel MCF7
+shortLabel 07-MCF7
 longLabel Copy number change: MCF7, SRR4009273, female, Breast
 type bigWig
 visibility full
@@ -75,9 +75,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 8-MDA-MB-231
+track 08-MDA-MB-231
 bigDataUrl MDA-MB-231.bigWig
-shortLabel MDA-MB-231
+shortLabel 08-MDA-MB-231
 longLabel Copy number change: MDA-MB-231, SRR4009238, female, Breast
 type bigWig
 visibility full
@@ -86,9 +86,9 @@ color 0,0,255
 altColor 255,0,0
 autoScale on
 
-track 9-T47D
+track 09-T47D
 bigDataUrl T47D.bigWig
-shortLabel T47D
+shortLabel 09-T47D
 longLabel Copy number change: T47D, SRR4009259, female, Breast
 type bigWig
 visibility full
@@ -99,7 +99,7 @@ autoScale on
 
 track 10-HCC2998
 bigDataUrl HCC2998.bigWig
-shortLabel HCC2998
+shortLabel 10-HCC2998
 longLabel Copy number change: HCC2998, SRR4009262, female, Colon
 type bigWig
 visibility full
@@ -110,7 +110,7 @@ autoScale on
 
 track 11-HT29
 bigDataUrl HT29.bigWig
-shortLabel HT29
+shortLabel 11-HT29
 longLabel Copy number change: HT29, SRR4009284, female, Colon
 type bigWig
 visibility full
@@ -121,7 +121,7 @@ autoScale on
 
 track 12-KM12
 bigDataUrl KM12.bigWig
-shortLabel KM12
+shortLabel 12-KM12
 longLabel Copy number change: KM12, SRR4009267, female, Colon
 type bigWig
 visibility full
@@ -132,7 +132,7 @@ autoScale on
 
 track 13-COLO205
 bigDataUrl COLO205.bigWig
-shortLabel COLO205
+shortLabel 13-COLO205
 longLabel Copy number change: COLO205, SRR4009293, male, Colon
 type bigWig
 visibility full
@@ -143,7 +143,7 @@ autoScale on
 
 track 14-HCT116
 bigDataUrl HCT116.bigWig
-shortLabel HCT116
+shortLabel 14-HCT116
 longLabel Copy number change: HCT116, SRR4009287, male, Colon
 type bigWig
 visibility full
@@ -154,7 +154,7 @@ autoScale on
 
 track 15-HCT15
 bigDataUrl HCT15.bigWig
-shortLabel HCT15
+shortLabel 15-HCT15
 longLabel Copy number change: HCT15, SRR4009286, male, Colon
 type bigWig
 visibility full
@@ -165,7 +165,7 @@ autoScale on
 
 track 16-Sw620
 bigDataUrl Sw620.bigWig
-shortLabel Sw620
+shortLabel 16-Sw620
 longLabel Copy number change: Sw620, SRR4009280, male, Colon
 type bigWig
 visibility full
@@ -176,7 +176,7 @@ autoScale on
 
 track 17-CCRF-CEM
 bigDataUrl CCRF-CEM.bigWig
-shortLabel CCRF-CEM
+shortLabel 17-CCRF-CEM
 longLabel Copy number change: CCRF-CEM, SRR4009291, female, Hematopoietic
 type bigWig
 visibility full
@@ -187,7 +187,7 @@ autoScale on
 
 track 18-HL-60
 bigDataUrl HL-60.bigWig
-shortLabel HL-60
+shortLabel 18-HL-60
 longLabel Copy number change: HL-60, SRR4009290, female, Hematopoietic
 type bigWig
 visibility full
@@ -198,7 +198,7 @@ autoScale on
 
 track 19-K562
 bigDataUrl K562.bigWig
-shortLabel K562
+shortLabel 19-K562
 longLabel Copy number change: K562, SRR4009297, female, Hematopoietic
 type bigWig
 visibility full
@@ -209,7 +209,7 @@ autoScale on
 
 track 20-MOLT-4
 bigDataUrl MOLT-4.bigWig
-shortLabel MOLT-4
+shortLabel 20-MOLT-4
 longLabel Copy number change: MOLT-4, SRR4009283, male, Hematopoietic
 type bigWig
 visibility full
@@ -220,7 +220,7 @@ autoScale on
 
 track 21-RPMI-8226
 bigDataUrl RPMI-8226.bigWig
-shortLabel RPMI-8226
+shortLabel 21-RPMI-8226
 longLabel Copy number change: RPMI-8226, SRR4009240, male, Hematopoietic
 type bigWig
 visibility full
@@ -231,7 +231,7 @@ autoScale on
 
 track 22-SR
 bigDataUrl SR.bigWig
-shortLabel SR
+shortLabel 22-SR
 longLabel Copy number change: SR, SRR4009296, male, Hematopoietic
 type bigWig
 visibility full
@@ -242,7 +242,7 @@ autoScale on
 
 track 23-HOP62
 bigDataUrl HOP62.bigWig
-shortLabel HOP62
+shortLabel 23-HOP62
 longLabel Copy number change: HOP62, SRR4009239, female, Lung
 type bigWig
 visibility full
@@ -253,7 +253,7 @@ autoScale on
 
 track 24-HOP92
 bigDataUrl HOP92.bigWig
-shortLabel HOP92
+shortLabel 24-HOP92
 longLabel Copy number change: HOP92, SRR4009274, female, Lung
 type bigWig
 visibility full
@@ -264,7 +264,7 @@ autoScale on
 
 track 25-A549
 bigDataUrl A549.bigWig
-shortLabel A549
+shortLabel 25-A549
 longLabel Copy number change: A549, SRR4009282, male, Lung
 type bigWig
 visibility full
@@ -275,7 +275,7 @@ autoScale on
 
 track 26-EKVX
 bigDataUrl EKVX.bigWig
-shortLabel EKVX
+shortLabel 26-EKVX
 longLabel Copy number change: EKVX, SRR4009310, male, Lung
 type bigWig
 visibility full
@@ -286,7 +286,7 @@ autoScale on
 
 track 27-H226
 bigDataUrl H226.bigWig
-shortLabel H226
+shortLabel 27-H226
 longLabel Copy number change: H226, SRR4009279, male, Lung
 type bigWig
 visibility full
@@ -297,7 +297,7 @@ autoScale on
 
 track 28-H23
 bigDataUrl H23.bigWig
-shortLabel H23
+shortLabel 28-H23
 longLabel Copy number change: H23, SRR4009247, male, Lung
 type bigWig
 visibility full
@@ -308,7 +308,7 @@ autoScale on
 
 track 29-H322M
 bigDataUrl H322M.bigWig
-shortLabel H322M
+shortLabel 29-H322M
 longLabel Copy number change: H322M, SRR4009225, male, Lung
 type bigWig
 visibility full
@@ -319,7 +319,7 @@ autoScale on
 
 track 30-H460
 bigDataUrl H460.bigWig
-shortLabel H460
+shortLabel 30-H460
 longLabel Copy number change: H460, SRR4009248, male, Lung
 type bigWig
 visibility full
@@ -330,7 +330,7 @@ autoScale on
 
 track 31-H522
 bigDataUrl H522.bigWig
-shortLabel H522
+shortLabel 31-H522
 longLabel Copy number change: H522, SRR4009265, male, Lung
 type bigWig
 visibility full
@@ -341,7 +341,7 @@ autoScale on
 
 track 32-IGROV1
 bigDataUrl IGROV1.bigWig
-shortLabel IGROV1
+shortLabel 32-IGROV1
 longLabel Copy number change: IGROV1, SRR4009281, female, Ovary
 type bigWig
 visibility full
@@ -352,7 +352,7 @@ autoScale on
 
 track 33-OVCAR3
 bigDataUrl OVCAR3.bigWig
-shortLabel OVCAR3
+shortLabel 33-OVCAR3
 longLabel Copy number change: OVCAR3, SRR4009263, female, Ovary
 type bigWig
 visibility full
@@ -363,7 +363,7 @@ autoScale on
 
 track 34-OVCAR4
 bigDataUrl OVCAR4.bigWig
-shortLabel OVCAR4
+shortLabel 34-OVCAR4
 longLabel Copy number change: OVCAR4, SRR4009236, female, Ovary
 type bigWig
 visibility full
@@ -374,7 +374,7 @@ autoScale on
 
 track 35-OVCAR5
 bigDataUrl OVCAR5.bigWig
-shortLabel OVCAR5
+shortLabel 35-OVCAR5
 longLabel Copy number change: OVCAR5, SRR4009246, female, Ovary
 type bigWig
 visibility full
@@ -385,7 +385,7 @@ autoScale on
 
 track 36-OVCAR8
 bigDataUrl OVCAR8.bigWig
-shortLabel OVCAR8
+shortLabel 36-OVCAR8
 longLabel Copy number change: OVCAR8, SRR4009275, female, Ovary
 type bigWig
 visibility full
@@ -396,7 +396,7 @@ autoScale on
 
 track 37-SKOV3
 bigDataUrl SKOV3.bigWig
-shortLabel SKOV3
+shortLabel 37-SKOV3
 longLabel Copy number change: SKOV3, SRR4009278, female, Ovary
 type bigWig
 visibility full
@@ -407,7 +407,7 @@ autoScale on
 
 track 38-DU145
 bigDataUrl DU145.bigWig
-shortLabel DU145
+shortLabel 38-DU145
 longLabel Copy number change: DU145, SRR4009270, male, Prostate
 type bigWig
 visibility full
@@ -418,7 +418,7 @@ autoScale on
 
 track 39-PC3
 bigDataUrl PC3.bigWig
-shortLabel PC3
+shortLabel 39-PC3
 longLabel Copy number change: PC3, SRR4009277, male, Prostate
 type bigWig
 visibility full
@@ -429,7 +429,7 @@ autoScale on
 
 track 40-A498
 bigDataUrl A498.bigWig
-shortLabel A498
+shortLabel 40-A498
 longLabel Copy number change: A498, SRR4009292, female, Renal
 type bigWig
 visibility full
@@ -440,7 +440,7 @@ autoScale on
 
 track 41-UO31
 bigDataUrl UO31.bigWig
-shortLabel UO31
+shortLabel 41-UO31
 longLabel Copy number change: UO31, SRR4009261, female, Renal
 type bigWig
 visibility full
@@ -451,7 +451,7 @@ autoScale on
 
 track 42-786-0
 bigDataUrl 786-0.bigWig
-shortLabel 786-0
+shortLabel 42-786-0
 longLabel Copy number change: 786-0, SRR4009256, male, Renal
 type bigWig
 visibility full
@@ -462,7 +462,7 @@ autoScale on
 
 track 43-ACHN
 bigDataUrl ACHN.bigWig
-shortLabel ACHN
+shortLabel 43-ACHN
 longLabel Copy number change: ACHN, SRR4009295, male, Renal
 type bigWig
 visibility full
@@ -473,7 +473,7 @@ autoScale on
 
 track 44-CAKI-1
 bigDataUrl CAKI-1.bigWig
-shortLabel CAKI-1
+shortLabel 44-CAKI-1
 longLabel Copy number change: CAKI-1, SRR4009245, male, Renal
 type bigWig
 visibility full
@@ -484,7 +484,7 @@ autoScale on
 
 track 45-RXF-393
 bigDataUrl RXF-393.bigWig
-shortLabel RXF-393
+shortLabel 45-RXF-393
 longLabel Copy number change: RXF-393, SRR4009241, male, Renal
 type bigWig
 visibility full
@@ -495,7 +495,7 @@ autoScale on
 
 track 46-SN12C
 bigDataUrl SN12C.bigWig
-shortLabel SN12C
+shortLabel 46-SN12C
 longLabel Copy number change: SN12C, SRR4009289, male, Renal
 type bigWig
 visibility full
@@ -506,7 +506,7 @@ autoScale on
 
 track 47-TK10
 bigDataUrl TK10.bigWig
-shortLabel TK10
+shortLabel 47-TK10
 longLabel Copy number change: TK10, SRR4009251, male, Renal
 type bigWig
 visibility full
@@ -517,7 +517,7 @@ autoScale on
 
 track 48-M14
 bigDataUrl M14.bigWig
-shortLabel M14
+shortLabel 48-M14
 longLabel Copy number change: M14, SRR4009253, female, Skin
 type bigWig
 visibility full
@@ -528,7 +528,7 @@ autoScale on
 
 track 49-SKMEL5
 bigDataUrl SKMEL5.bigWig
-shortLabel SKMEL5
+shortLabel 49-SKMEL5
 longLabel Copy number change: SKMEL5, SRR4009272, female, Skin
 type bigWig
 visibility full
@@ -539,7 +539,7 @@ autoScale on
 
 track 50-UACC257
 bigDataUrl UACC257.bigWig
-shortLabel UACC257
+shortLabel 50-UACC257
 longLabel Copy number change: UACC257, SRR4009258, female, Skin
 type bigWig
 visibility full
@@ -550,7 +550,7 @@ autoScale on
 
 track 51-UACC62
 bigDataUrl UACC62.bigWig
-shortLabel UACC62
+shortLabel 51-UACC62
 longLabel Copy number change: UACC62, SRR4009203, female, Skin
 type bigWig
 visibility full
@@ -561,7 +561,7 @@ autoScale on
 
 track 52-LOXIMVI
 bigDataUrl LOXIMVI.bigWig
-shortLabel LOXIMVI
+shortLabel 52-LOXIMVI
 longLabel Copy number change: LOXIMVI, SRR4009294, male, Skin
 type bigWig
 visibility full
@@ -572,7 +572,7 @@ autoScale on
 
 track 53-MALME3M
 bigDataUrl MALME3M.bigWig
-shortLabel MALME3M
+shortLabel 53-MALME3M
 longLabel Copy number change: MALME3M, SRR4009321, male, Skin
 type bigWig
 visibility full
@@ -583,7 +583,7 @@ autoScale on
 
 track 54-SKMEL-28
 bigDataUrl SKMEL-28.bigWig
-shortLabel SKMEL-28
+shortLabel 54-SKMEL-28
 longLabel Copy number change: SKMEL-28, SRR4009260, male, Skin
 type bigWig
 visibility full
@@ -594,7 +594,7 @@ autoScale on
 
 track 55-SKMEL2
 bigDataUrl SKMEL2.bigWig
-shortLabel SKMEL2
+shortLabel 55-SKMEL2
 longLabel Copy number change: SKMEL2, SRR4009254, male, Skin
 type bigWig
 visibility full
