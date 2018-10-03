@@ -1,4 +1,8 @@
+track CNVs
+superTrack on show
+
 track Brain
+parent CNVs
 compositeTrack on
 shortLabel Brain CNVs
 longLabel Brain CNVs
@@ -15,6 +19,7 @@ longLabel Brain CNVs
     autoScale on
 
 track Breast
+parent CNVs
 compositeTrack on
 shortLabel Breast CNVs
 longLabel Breast CNVs
