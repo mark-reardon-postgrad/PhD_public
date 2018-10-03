@@ -2,8 +2,6 @@ track Brain
 compositeTrack on
 shortLabel Brain CNVs
 longLabel Brain CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -38,8 +36,6 @@ track Breast
 compositeTrack on
 shortLabel Breast CNVs
 longLabel Breast CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -80,8 +76,6 @@ track Colon
 compositeTrack on
 shortLabel Colon CNVs
 longLabel Colon CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -134,8 +128,6 @@ track Hematopoietic
 compositeTrack on
 shortLabel Hematopoietic CNVs
 longLabel Hematopoietic CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -182,8 +174,6 @@ track Lung
 compositeTrack on
 shortLabel Lung CNVs
 longLabel Lung CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -248,8 +238,6 @@ track Ovary
 compositeTrack on
 shortLabel Ovary CNVs
 longLabel Ovary CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -296,8 +284,6 @@ track Prostate
 compositeTrack on
 shortLabel Prostate CNVs
 longLabel Prostate CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -320,8 +306,6 @@ track Renal
 compositeTrack on
 shortLabel Renal CNVs
 longLabel Renal CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
@@ -380,8 +364,6 @@ track Skin
 compositeTrack on
 shortLabel Skin CNVs
 longLabel Skin CNVs
-allButtonPair on
-centerLabelsDense off
 type bigWig
 visibility full
 color 0,0,255
